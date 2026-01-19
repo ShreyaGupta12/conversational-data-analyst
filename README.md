@@ -214,8 +214,6 @@ Then interact using natural language queries.
 ## Author
 
 **Shreya Gupta**  
-MS by Research in Artificial Intelligence  
-IIT Jodhpur
 
 ---
 
@@ -230,15 +228,4 @@ This project is intended for academic and research purposes.
 - LangChain
 - Ollama
 - Open-source Python ecosystem
-
----
-
-If you would like, I can also:
-- shorten this README
-- convert it to a more academic style
-- add badges (Python, License, LangChain)
-- tailor it for GitHub submission
-- generate a `requirements.txt`
-
-Just tell me.
 

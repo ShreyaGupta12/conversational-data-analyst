@@ -1,0 +1,9 @@
+pandas>=1.5
+numpy>=1.24
+matplotlib>=3.6
+difflib2; python_version<"3.8"   # optional: difflib is in stdlib; added only for older envs
+# LangChain/Ollama not required for the rule-based agent, but keep these if you plan to integrate later:
+langchain==1.0.7
+langchain-core==1.0.5
+langchain-community==0.4.1
+langchain-ollama
